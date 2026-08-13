@@ -4,7 +4,7 @@
       "changelogs": {
         "1.0.0": {
           "changelogHeader": "Initial release",
-          "changelogs": "Initial OTA release with performance improvements."
+          "changelogs": "<b>Initial OTA</b> release with performance improvements."
         },
         "1.0.1": {
           "changelogHeader": "Performance update",
