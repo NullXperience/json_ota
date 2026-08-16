@@ -38,5 +38,6 @@
       "isIncremental": false,
       "isFull": true
     }
-  }
+  },
+  "supported": "whyred,onyx,peridot"
 }
