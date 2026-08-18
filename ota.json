@@ -5,40 +5,23 @@
         "1.0.0": {
           "changelogHeader": "Initial release",
           "changelogs": "<b>Initial OTA</b><br>release with performance improvements",
-          "buildid": "RORS31.335-20-2"
+          "buildid": "RORS31.335-20-2",
+          "isIncremental": false,
+          "url": "https://example.com/device_one-1.0.1.zip",
+          "sha256": "abcdef1234567890",
+          "size": "1 GB"
         },
         "1.0.1": {
           "changelogHeader": "Performance update",
           "changelogs": "Improved performance and fixed various bugs.",
-          "buildid": "RORS31.335-20-2"
+          "buildid": "RORS31.335-20-2",
+          "isIncremental": false,
+          "url": "https://example.com/device_one-1.0.1.zip",
+          "sha256": "abcdef1234567890",
+          "size": "1 GB"
         }
       },
-      "version": "1.0.1",
-      "url": "https://example.com/device_one-1.0.1.zip",
-      "sha256": "abcdef1234567890",
-      "size": 524288000,
-      "isMB": false,
-      "isIncremental": false,
-      "isFull": true
-    },
-    "device_two": {
-      "changelogs": {
-        "1.0.0": {
-          "changelogHeader": "Initial release",
-          "changelogs": "<b>Initial OTA</b><br>release with performance improvements"
-        },
-        "1.0.1": {
-          "changelogHeader": "Performance update",
-          "changelogs": "Improved performance and fixed various bugs."
-        }
-      },
-      "version": "1.0.1",
-      "url": "https://example.com/device_one-1.0.1.zip",
-      "sha256": "abcdef1234567890",
-      "size": 524288000,
-      "isMB": false,
-      "isIncremental": false,
-      "isFull": true
+      "version": "1.0.1"
     }
   },
   "supported": "whyred,onyx,peridot"
