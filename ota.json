@@ -3,7 +3,6 @@
     "device_one": {
       "changelogs": {
         "1.0.0": {
-          "changelogHeader": "Initial release",
           "changelogs": "<b>Initial OTA</b><br>release with performance improvements",
           "buildid": "RORS31.335-20-2",
           "isIncremental": false,
@@ -12,8 +11,7 @@
           "size": "1 GB"
         },
         "1.0.1": {
-          "changelogHeader": "Performance update",
-          "changelogs": "Improved performance and fixed various bugs.",
+          "changelogs": "<b>Improved <b>performance</b> and fixed various <b>bugs</b>.<br>we<br>we<br>we<br>we<br>we<br>we<br>live",
           "buildid": "RORS31.335-20-2",
           "isIncremental": false,
           "url": "https://example.com/device_one-1.0.1.zip",
