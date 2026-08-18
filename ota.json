@@ -4,11 +4,13 @@
       "changelogs": {
         "1.0.0": {
           "changelogHeader": "Initial release",
-          "changelogs": "<b>Initial OTA</b><br>release with performance improvements"
+          "changelogs": "<b>Initial OTA</b><br>release with performance improvements",
+          "buildid": "RORS31.335-20-2"
         },
         "1.0.1": {
           "changelogHeader": "Performance update",
-          "changelogs": "Improved performance and fixed various bugs."
+          "changelogs": "Improved performance and fixed various bugs.",
+          "buildid": "RORS31.335-20-2"
         }
       },
       "version": "1.0.1",
