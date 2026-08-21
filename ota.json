@@ -20,7 +20,28 @@
         }
       },
       "version": "1.0.1"
+    },
+    "Android SDK built for x86_64": {
+      "changelogs": {
+        "1.0.0": {
+          "changelogs": "<b>Initial OTA</b><br>release with performance improvements",
+          "buildid": "RORS31.335-20-2",
+          "isIncremental": false,
+          "url": "https://example.com/device_one-1.0.1.zip",
+          "sha256": "abcdef1234567890",
+          "size": "1 GB"
+        },
+        "1.0.1": {
+          "changelogs": "<b>Improved <b>performance</b> and fixed various <b>bugs</b>.<br>we<br>we<br>we<br>we<br>we<br>we<br>live",
+          "buildid": "RORS31.335-20-2",
+          "isIncremental": false,
+          "url": "https://example.com/device_one-1.0.1.zip",
+          "sha256": "abcdef1234567890",
+          "size": "1 GB"
+        }
+      },
+      "version": "1.0.1"
     }
   },
-  "supported": "device_one"
+  "supported": "device_one,Android SDK built for x86_64"
 }
