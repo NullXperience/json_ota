@@ -32,7 +32,10 @@
           "size": "1 GB"
         },
         "1.0.1": {
-          "changelogs": "<b>Improved <b>performance</b> and fixed various <b>bugs</b>.<br>we<br>we<br>we<br>we<br>we<br>we<br>live",
+          "changelogs": [
+            "test1 gng",
+            "test2 gng"
+          ],
           "buildid": "RORS31.335-20-2",
           "isIncremental": false,
           "url": "https://example.com/device_one-1.0.1.zip",
